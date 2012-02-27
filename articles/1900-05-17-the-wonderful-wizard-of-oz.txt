@@ -1,7 +1,5 @@
-title: The Wonderful Wizard of Oz
-author: Lyman Frank Baum
-date: 1900/05/17
+title: Hello World. Redux.
+author: Petter Hareim
+date: 2012/02/27
 
-Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, 
-who was a farmer, and Aunt Em, who was the farmer's wife.
-
+This is my, technically, second adventure into the wonderous world of Heroku. Stay tuned for nice things.
