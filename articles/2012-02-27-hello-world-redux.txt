@@ -1,4 +1,4 @@
-title: Hello World. Redux.
+title: Hello World Redux
 author: Petter Hareim
 date: 2012/02/27
 
