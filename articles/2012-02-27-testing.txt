@@ -1,0 +1,6 @@
+---
+title: Testing
+author: Petter Hareim
+date: 27/02/2012
+
+Jeg har en plan om å integrere mot <a href"http://twitter.com">twitter</a> som eneste form for kommentar. Spent på det.
