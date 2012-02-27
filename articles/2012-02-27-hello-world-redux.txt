@@ -1,5 +1,0 @@
-title: hello world redux
-author: Petter Hareim
-date: 27/02/2012
-
-This is my, technically, second adventure into the wonderous world of Heroku. Stay tuned for nice things.
