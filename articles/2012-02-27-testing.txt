@@ -5,6 +5,6 @@ date: 27/02/2012
 Jeg har en plan om å integrere mot <a href="http://twitter.com">twitter</a> som eneste mulighet til å legge inn kommentarer.
 
 
-Hver post får sin egen tweet, tweetet fra <a href="http://twitter.com/phareim">min konto</a>. Disse er en kort oppsummering og en link hit. Herfra kan hvem som helst kommentere, som vil resultere i et svar til min melding på twitter. Disse meldingene vises på denne bloggen under de respektive postene.
+Hver post får sin egen tweet, tweetet fra <a href="http://twitter.com/phareim">min konto</a>. Disse er en kort oppsummering og en link hit. Herfra kan hvem som helst kommentere, noe som vil resultere i et svar på min melding på twitter. Disse meldingene vises på denne bloggen under de respektive postene.
 
 Resultatet blir, forhåpentligvis, at denne siden vil fungere som en utvidelse av min twitter-konto.
