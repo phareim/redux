@@ -1,5 +1,0 @@
----
-title: soo
-date: 28/02/2012
-author: Petter
-It has come to this
