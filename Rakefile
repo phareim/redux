@@ -7,9 +7,10 @@ task :default => :new
 desc "Create a new article."
 task :new do
   title = ask('Title: ')
+  author = 'Petter'
   slug = title.empty?? nil : title.strip.slugize
 
-  article = {'title' => title, 'date' => Time.now.strftime("%d/%m/%Y")}.to_yaml
+  article = {'title' => title, 'date' => Time.now.strftime("%d/%m/%Y"), 'author' => author}.to_yaml
   article << "\n"
   article << "Once upon a time...\n\n"
 
@@ -18,6 +19,7 @@ task :new do
   unless File.exist? path
     File.open(path, "w") do |file|
       file.write article
+      `git add #{File.expand_path(file.path)}`
     end
     toto "an article was created for you at #{path}."
   else
@@ -28,6 +30,7 @@ end
 desc "Publish my blog."
 task :publish do
   toto "publishing your article(s)..."
+  `git push`
   `git push heroku master`
 end
 

@@ -1,5 +1,5 @@
 title: Testing
-author: Petter Hareim
+author: Petter
 date: 27/02/2012
 
 Jeg har en plan om å integrere mot <a href="http://twitter.com">twitter</a> som eneste mulighet til å legge inn kommentarer.

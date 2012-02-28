@@ -1,6 +1,6 @@
 ---
 title: om prosjekter og motivasjon
-author: Petter Hareim
+author: Petter
 date: 27/02/2012
 
 
