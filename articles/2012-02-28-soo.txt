@@ -2,6 +2,6 @@
 title: soo
 date: 28/02/2012
 author: Petter
-
-![you. me. this moment](http://imgs.xkcd.com/comics/so_it_has_come_to_this.png)
+~
+<img src="http://imgs.xkcd.com/comics/so_it_has_come_to_this.png" width="100%" />
 
