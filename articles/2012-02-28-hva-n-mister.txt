@@ -1,0 +1,12 @@
+---
+title: Hva nå, mister?
+date: 28/02/2012
+author: Petter Hareim
+
+OK. Jeg har fått denne lille heroku-affæren opp og gå. Nå er bare spørsmålet hva i alle dager jeg skal fylle den med.
+
+Jeg har en slags idé om en stilig liten tjeneste for å ta vare på begreper og idéer til du har tid til å google de. Tror det blir første prosjekt. Tror det blir i Java.
+
+Stay tuned. More info is coming.
+
+_selvreferende kommenter: hvordan behandler egentlig <a href="cloudhead.io/toto">toto</a> norske tegn i artikkel-tittelen?_
