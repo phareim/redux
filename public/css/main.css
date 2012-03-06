@@ -59,6 +59,7 @@ a:hover {
   text-decoration: underline;
 }
 body > header > h1 {
+  background-color: green;
 	border-left: 30px solid black;
 	padding-left: 30px;
   font-size: 201px;
