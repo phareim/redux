@@ -60,9 +60,7 @@ a:hover {
 }
 body > section > header > h1 {
 	border-left: 30px solid black;
-	padding-left: 30px;
-  font-size: 201px;
-  margin: 100px 0 15px 0;
+	font-size: 150%;
   font-weight: normal;
 }
 .post header {
