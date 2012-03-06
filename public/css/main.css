@@ -58,7 +58,7 @@ h1 a, h2 a {
 a:hover {
   text-decoration: underline;
 }
-body > header >section > h1 {
+body > section > header > h1 {
 	border-left: 30px solid black;
 	padding-left: 30px;
   font-size: 201px;
