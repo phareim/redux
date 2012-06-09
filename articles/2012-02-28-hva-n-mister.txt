@@ -1,4 +1,3 @@
----
 title: Hva nå, mister?
 date: 28/02/2012
 author: Petter

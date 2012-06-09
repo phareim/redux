@@ -1,4 +1,3 @@
----
 title: om prosjekter og motivasjon
 author: Petter
 date: 27/02/2012
