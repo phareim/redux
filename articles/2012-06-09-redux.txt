@@ -6,3 +6,5 @@ author: Petter
 Once upon a time...~
 
 Why you no work?!
+
+EDIT: hadde misforstått filnavn-konvensjonen. aces.
