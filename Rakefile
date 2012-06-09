@@ -30,6 +30,7 @@ end
 desc "Publish my blog."
 task :publish do
   toto "publishing your article(s)..."
+  `git add .`
   `git commit -m "publish article"`
   `git push`
   `git push heroku master`
