@@ -4,14 +4,30 @@ date: 09/09/2013
 author: Petter
 
 Jeg har en idé om å skrive for å lære. 
-
 Altså: hver dag skrive en kort tekst om noe jeg har lært i dag.
-
 Noen store prosjekter, og noen mindre underpunkter.
 
+
+<h2>fornuftige prosjekter for bloggen "Petter lærer nye ting":</h2>
+
+<b>STORE PROSJEKTER</b>
 <ul>
-<li>html5</li>
-<li>node.js</li>
-<li>jquery</li>
-<li>jquery</li>
+	<li>* node.js: meta-prat. hvordan sette opp blogg i node.</li>
+	<li>* twitter: hvordan rigge twitter til å ta over for kommentar-feltet.</li>
+	<li>* Microsoft-sertifisering: tema for tema.</li>
+	<li>* lag en enkel distraction-fri editor.</li>
+<ul>
+
+<b>MINDRE PROSJEKTER:</b>
+<ul>
+	<li>* TED-talks</li>
+	<li>* anmeldelser</li>
+	<li>* om livet som enterprise-konsulent</li> 
+</ul>
+
+<b>FAGOMRÅDER:</b>
+<ul>
+	<li>* indie-utvikling</li>
+	<li>* spill-utvikling</li>
+	<li* UX</li>
 </ul>
