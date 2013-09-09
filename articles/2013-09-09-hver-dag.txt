@@ -16,7 +16,7 @@ Noen store prosjekter, og noen mindre underpunkter.
 	<li>* twitter: hvordan rigge twitter til å ta over for kommentar-feltet.</li>
 	<li>* Microsoft-sertifisering: tema for tema.</li>
 	<li>* lag en enkel distraction-fri editor.</li>
-<ul>
+</ul>
 
 <b>MINDRE PROSJEKTER:</b>
 <ul>
