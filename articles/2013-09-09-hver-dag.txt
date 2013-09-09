@@ -1,5 +1,5 @@
 ---
-title: litt hver dag
+title: hver dag
 date: 09/09/2013
 author: Petter
 
