@@ -95,8 +95,8 @@ body > section > header > h1 {
 }
 .more a:hover 
 { 
-    text-decoration: bold;
-    text-color: black;
+    font-weight: bold;
+    color: black;
 }
 body > header {
 	display: block;
