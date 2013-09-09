@@ -1,0 +1,17 @@
+---
+title: litt hver dag
+date: 09/09/2013
+author: Petter
+
+Jeg har en idé om å skrive for å lære. 
+
+Altså: hver dag skrive en kort tekst om noe jeg har lært i dag.
+
+Noen store prosjekter, og noen mindre underpunkter.
+
+<ul>
+<li>html5</li>
+<li>node.js</li>
+<li>jquery</li>
+<li>jquery</li>
+</ul>
