@@ -87,6 +87,7 @@ body > section > header > h1 {
   margin-top: -10px;
   margin-right: 30px;
   font-style: italic;
+  font-size: 150%;
   text-align: right;
 }
 .more a {
