@@ -13,7 +13,7 @@ body {
 footer {
     font-family: 'Calligraffitti', Georgia, serif;
     display: block;
-    position: absolute;
+    /*position: absolute; */
     bottom: 0px;
     padding: 30px;
 }
