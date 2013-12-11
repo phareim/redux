@@ -1,21 +1,23 @@
 /*@import url(html5-styles.css);*/
-
-html { margin: 20px }
+@import url(http://fonts.googleapis.com/css?family=Varela+Round);
+html { 
+    margin: 20px 
+    }
 body {
   margin: 0 auto;
-  font-family: 'Baskerville', Georgia, Times, serif;
+  font-family: 'Varela Round','Baskerville', Georgia, Times, serif;
   font-size: 20px;
-  line-height: 30px;
+  line-height: 22px;
   padding: 15px;
   width: 720px;
+  color: #333;
 }
 
 footer {
     font-family: 'Calligraffitti', Georgia, serif;
     display: block;
-    /*position: absolute; */
     bottom: 0px;
-    padding: 30px;
+    padding: 20px;
 }
 
 @media screen and (max-device-width: 480px) {
@@ -28,6 +30,7 @@ header, footer, section, article {
 	display: block;
 }
 #content {
+
 }
 #by {
 	font-style: italic;

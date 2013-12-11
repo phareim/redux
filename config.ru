@@ -17,20 +17,16 @@ toto = Toto::Server.new do
   # Add your settings here
   # set [:setting], [value]
   # 
-  set :author,    "phareim"                                     # blog author
-  set :title,     "phareim - redux"                             # site title
+  set :author,    "phareim"                                   # blog author
+  set :title,     "phareim - redux"                           # site title
   # set :root,      "index"                                   # page to load on /
-  # set :date,      lambda {|now| now.strftime("%d/%m/%Y") }  # date format for articles
+  set :date, lambda {|now| now.strftime("%d.%m.%Y") }         # date format for articles
   # set :markdown,  :smart                                    # use markdown + smart-mode
-  # set :disqus,    "petter"                                     # disqus id, or false
-  set :summary,   :max => 100, :delim => /~/                # length of article summary and delimiter
+  # set :disqus,    "petter"                                  # disqus id, or false
+  set :summary,   :max => 100, :delim => /~/                  # length of article summary and delimiter
   # set :ext,       'txt'                                     # file extension for articles
   # set :cache,      28800                                    # cache duration, in seconds
 
-
- 
-  set :date, lambda {|now| now.strftime("%d.%m.%Y") }
-  #set :date, lambda {|now| now.strftime("%B #{now.day.ordinal} %Y") }
 end
 
 run toto
